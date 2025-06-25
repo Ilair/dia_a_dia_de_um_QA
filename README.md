@@ -1,7 +1,6 @@
 <div align="center"><img align="" width="150px" src="/icone.png">
- # Lab Project
- <br />
- # O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
+ 
+ # Lab Project - O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
  
  <br /><br />
 
